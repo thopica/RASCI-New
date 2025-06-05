@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Verantwortungsmatrix</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="branding">
+      <img src="isolution-logo.svg" alt="Logo" />
+      <span> <a href="https://mcs.isolutions.ch/" style="color: inherit; text-decoration: none;">Managed Cloud Services</a></span>
+    </div>
+  </header>
+
+  <main>
+    <h1>Verantwortungsmatrix</h1>
+
+    <div class="filters">
+      <label>
+        Service Kategorie:
+        <select id="filterKategorie"></select>
+      </label>
+      <label>
+        Servicebeschreibung:
+        <select id="filterBeschreibung"></select>
+      </label>
+      <label>
+        Verantwortung:
+        <select id="filterVerantwortung">
+          <option value="">Alle</option>
+          <option value="isolutions">isolutions</option>
+          <option value="kunde">customer</option>
+        </select>
+      </label>
+      <label>
+        Serviceart:
+        <select id="filterServiceart"></select>
+      </label>
+      <label>
+        Suche:
+        <input type="text" id="searchInput" placeholder="Suchbegriff..." />
+      </label>
+      <button id="resetButton">Reset</button>
+    </div>
+
+    <table id="dataTable">
+      <thead>
+        <tr>
+          <th>Service Kategorie</th>
+          <th>Servicebeschreibung</th>
+          <th>Aktivität</th>
+          <th>isolutions</th>
+          <th>Kunde</th>
+          <th>Serviceart</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
