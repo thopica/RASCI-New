@@ -99,7 +99,7 @@
     "serviceKategorie": "Cloud Management",
     "serviceBeschreibung": "Microsoft 365 Change-Management",
     "aktivitaet": "Beobachtung der Microsoft 365 Roadmap & Updates",
-    "isolutions": "R",
+    "isolutions": "R, A",
     "kunde": "I",
     "serviceart": "Proaktiv"
   },
@@ -116,7 +116,7 @@
     "serviceBeschreibung": "Microsoft 365 Change-Management",
     "aktivitaet": "Konfigurationsanpassungen bei neuen Funktionen",
     "isolutions": "R, A",
-    "kunde": "C, I",
+    "kunde": "C, I, S",
     "serviceart": "Proaktiv"
   },
   {
@@ -130,17 +130,17 @@
   {
     "serviceKategorie": "Cloud Management",
     "serviceBeschreibung": "Lizenz Management",
-    "aktivitaet": "Lizenzzuweisung/-entzug",
+    "aktivitaet": "Lizenzzuweisung/-entzug (Marketplace)",
     "isolutions": "C, S",
-    "kunde": "R, A (ACMP AGB)",
+    "kunde": "R, A",
     "serviceart": "Reaktiv"
   },
   {
     "serviceKategorie": "Cloud Management",
     "serviceBeschreibung": "Lizenz Management",
-    "aktivitaet": "Überwachung & Verlängerung von Lizenzen",
+    "aktivitaet": "Überwachung & Verlängerung von Lizenzen (Marketplace)",
     "isolutions": "S",
-    "kunde": "R, A (ACMP AGB)",
+    "kunde": "R, A",
     "serviceart": "Reaktiv"
   },
   {
@@ -148,7 +148,7 @@
     "serviceBeschreibung": "Lizenz Management",
     "aktivitaet": "Planung von Lizenzkapazitäten (Seats, SKUs)",
     "isolutions": "C, S",
-    "kunde": "A",
+    "kunde": "R, A",
     "serviceart": "Reaktiv"
   },
   {
@@ -163,7 +163,7 @@
     "serviceKategorie": "Cloud Management",
     "serviceBeschreibung": "Lizenz Management",
     "aktivitaet": "Lizenz-Reporting",
-    "isolutions": "R",
+    "isolutions": "R, A",
     "kunde": "I",
     "serviceart": "Proaktiv"
   },
@@ -195,7 +195,7 @@
     "serviceKategorie": "Support",
     "serviceBeschreibung": "Service Desk",
     "aktivitaet": "Koordination mit Drittanbietern (z. B. Software-Hersteller, falls erforderlich)",
-    "isolutions": "R",
+    "isolutions": "R, A",
     "kunde": "I, C, S",
     "serviceart": "Reaktiv"
   },
@@ -829,6 +829,78 @@
     "aktivitaet": "Updates & Lizenzierung der Backup-Software",
     "isolutions": "R, A",
     "kunde": "C, I",
+    "serviceart": "Proaktiv"
+  },
+  {
+    "serviceKategorie": NaN,
+    "serviceBeschreibung": NaN,
+    "aktivitaet": NaN,
+    "isolutions": NaN,
+    "kunde": NaN,
+    "serviceart": NaN
+  },
+  {
+    "serviceKategorie": NaN,
+    "serviceBeschreibung": NaN,
+    "aktivitaet": NaN,
+    "isolutions": NaN,
+    "kunde": NaN,
+    "serviceart": NaN
+  },
+  {
+    "serviceKategorie": NaN,
+    "serviceBeschreibung": NaN,
+    "aktivitaet": NaN,
+    "isolutions": NaN,
+    "kunde": NaN,
+    "serviceart": NaN
+  },
+  {
+    "serviceKategorie": NaN,
+    "serviceBeschreibung": NaN,
+    "aktivitaet": NaN,
+    "isolutions": NaN,
+    "kunde": NaN,
+    "serviceart": NaN
+  },
+  {
+    "serviceKategorie": "Service Kategorie",
+    "serviceBeschreibung": "Servicebeschreibung",
+    "aktivitaet": "Aktivität",
+    "isolutions": "isolutions",
+    "kunde": "Kunde",
+    "serviceart": "Serviceart"
+  },
+  {
+    "serviceKategorie": "Cloud Management",
+    "serviceBeschreibung": "Identity Management (Hybrid-Szenario)",
+    "aktivitaet": "Benutzer-Lifecycle (Erstellen/Ändern/Löschen)",
+    "isolutions": "C, I",
+    "kunde": "R, A",
+    "serviceart": "Reaktiv"
+  },
+  {
+    "serviceKategorie": "Cloud Management",
+    "serviceBeschreibung": "Identity Management (Hybrid-Szenario)",
+    "aktivitaet": "Gruppenmanagement (Erstellen/Verwalten/Löschen)",
+    "isolutions": "C, I",
+    "kunde": "R, A",
+    "serviceart": "Reaktiv"
+  },
+  {
+    "serviceKategorie": "Cloud Management",
+    "serviceBeschreibung": "Identity Management (Hybrid-Szenario)",
+    "aktivitaet": "Passwort- & MFA-Verwaltung",
+    "isolutions": "I",
+    "kunde": "R, A",
+    "serviceart": "Reaktiv"
+  },
+  {
+    "serviceKategorie": "Cloud Management",
+    "serviceBeschreibung": "Identity Management (Hybrid-Szenario)",
+    "aktivitaet": "Verzeichnis-Synchronisierung (Azure AD Connect)",
+    "isolutions": "R, A",
+    "kunde": "S, I",
     "serviceart": "Proaktiv"
   }
 ]
