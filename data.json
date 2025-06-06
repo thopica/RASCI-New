@@ -168,6 +168,38 @@
     "serviceart": "Proaktiv"
   },
   {
+    "serviceKategorie": "Cloud Management",
+    "serviceBeschreibung": "Identity Management (Hybrid-Szenario)",
+    "aktivitaet": "Benutzer-Lifecycle (Erstellen/Ändern/Löschen)",
+    "isolutions": "C, I",
+    "kunde": "R, A",
+    "serviceart": "Reaktiv"
+  },
+  {
+    "serviceKategorie": "Cloud Management",
+    "serviceBeschreibung": "Identity Management (Hybrid-Szenario)",
+    "aktivitaet": "Gruppenmanagement (Erstellen/Verwalten/Löschen)",
+    "isolutions": "C, I",
+    "kunde": "R, A",
+    "serviceart": "Reaktiv"
+  },
+  {
+    "serviceKategorie": "Cloud Management",
+    "serviceBeschreibung": "Identity Management (Hybrid-Szenario)",
+    "aktivitaet": "Passwort- & MFA-Verwaltung",
+    "isolutions": "I",
+    "kunde": "R, A",
+    "serviceart": "Reaktiv"
+  },
+  {
+    "serviceKategorie": "Cloud Management",
+    "serviceBeschreibung": "Identity Management (Hybrid-Szenario)",
+    "aktivitaet": "Verzeichnis-Synchronisierung (Azure AD Connect)",
+    "isolutions": "R, A",
+    "kunde": "S, I",
+    "serviceart": "Proaktiv"
+  },
+  {
     "serviceKategorie": "Support",
     "serviceBeschreibung": "Service Desk",
     "aktivitaet": "Ticketannahme, Kategorisierung & Priorisierung (gemäss SLA)",
@@ -829,78 +861,6 @@
     "aktivitaet": "Updates & Lizenzierung der Backup-Software",
     "isolutions": "R, A",
     "kunde": "C, I",
-    "serviceart": "Proaktiv"
-  },
-  {
-    "serviceKategorie": NaN,
-    "serviceBeschreibung": NaN,
-    "aktivitaet": NaN,
-    "isolutions": NaN,
-    "kunde": NaN,
-    "serviceart": NaN
-  },
-  {
-    "serviceKategorie": NaN,
-    "serviceBeschreibung": NaN,
-    "aktivitaet": NaN,
-    "isolutions": NaN,
-    "kunde": NaN,
-    "serviceart": NaN
-  },
-  {
-    "serviceKategorie": NaN,
-    "serviceBeschreibung": NaN,
-    "aktivitaet": NaN,
-    "isolutions": NaN,
-    "kunde": NaN,
-    "serviceart": NaN
-  },
-  {
-    "serviceKategorie": NaN,
-    "serviceBeschreibung": NaN,
-    "aktivitaet": NaN,
-    "isolutions": NaN,
-    "kunde": NaN,
-    "serviceart": NaN
-  },
-  {
-    "serviceKategorie": "Service Kategorie",
-    "serviceBeschreibung": "Servicebeschreibung",
-    "aktivitaet": "Aktivität",
-    "isolutions": "isolutions",
-    "kunde": "Kunde",
-    "serviceart": "Serviceart"
-  },
-  {
-    "serviceKategorie": "Cloud Management",
-    "serviceBeschreibung": "Identity Management (Hybrid-Szenario)",
-    "aktivitaet": "Benutzer-Lifecycle (Erstellen/Ändern/Löschen)",
-    "isolutions": "C, I",
-    "kunde": "R, A",
-    "serviceart": "Reaktiv"
-  },
-  {
-    "serviceKategorie": "Cloud Management",
-    "serviceBeschreibung": "Identity Management (Hybrid-Szenario)",
-    "aktivitaet": "Gruppenmanagement (Erstellen/Verwalten/Löschen)",
-    "isolutions": "C, I",
-    "kunde": "R, A",
-    "serviceart": "Reaktiv"
-  },
-  {
-    "serviceKategorie": "Cloud Management",
-    "serviceBeschreibung": "Identity Management (Hybrid-Szenario)",
-    "aktivitaet": "Passwort- & MFA-Verwaltung",
-    "isolutions": "I",
-    "kunde": "R, A",
-    "serviceart": "Reaktiv"
-  },
-  {
-    "serviceKategorie": "Cloud Management",
-    "serviceBeschreibung": "Identity Management (Hybrid-Szenario)",
-    "aktivitaet": "Verzeichnis-Synchronisierung (Azure AD Connect)",
-    "isolutions": "R, A",
-    "kunde": "S, I",
     "serviceart": "Proaktiv"
   }
 ]
